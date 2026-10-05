@@ -78,14 +78,6 @@ A modern media utility designed around a fast, simple interface for downloading 
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabaikabaia&hide_border=true&area=true" width="100%"></p>
 
----
-
-## Cinematic Experience
-
-This profile is intentionally designed with a cinematic visual direction.
-
-GitHub profile READMEs cannot execute arbitrary JavaScript or Three.js directly, so the interactive 3D experience belongs on the Nabees web platform rather than inside the README itself.
-
 <p align="center"><strong>BUILD. SHIP. EVOLVE.</strong></p>
 
 <p align="center"><a href="https://nabees.online">Nabees Tech</a></p>
